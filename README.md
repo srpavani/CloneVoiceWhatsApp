@@ -17,10 +17,10 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [x] Integração com a API do WhatsApp.
-- [] Melhorar os algoritmos de clonagem de voz(c++ e python).
-- [] Implementação de funcionalidades de segurança para garantir a privacidade dos usuários.
-- [] Ampliar a base de dados de vozes para treinamento.
-- [] Desenvolvimento de uma interface amigável para interação com o usuário.
+- [ ] Melhorar os algoritmos de clonagem de voz(c++ e python).
+- [ ] Implementação de funcionalidades de segurança para garantir a privacidade dos usuários.
+- [ ] Ampliar a base de dados de vozes para treinamento.
+- [ ] Desenvolvimento de uma interface amigável para interação com o usuário.
 
 ## 💻 Pré-requisitos
 
