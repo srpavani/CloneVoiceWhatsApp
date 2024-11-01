@@ -24,6 +24,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 💻 Pré-requisitos
 
-Você instalou a versão mais recente de <Node.js / Python / TensorFlow>
-Você tem uma máquina <Windows / Linux / Mac>.
+- Você instalou a versão mais recente de `<Node.js / Python / TensorFlow>`
+- Você tem uma máquina `<Windows / Linux / Mac>.`
 
