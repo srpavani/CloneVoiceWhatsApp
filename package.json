@@ -1,0 +1,12 @@
+{
+  "name": "clonevoicewhatsapp",
+  "version": "1.0.0",
+  "description": "Projeto consiste em usar inteligencia artificial para clonar a voz a partir de audios de uma conversa no whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
