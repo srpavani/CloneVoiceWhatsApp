@@ -1,12 +1,17 @@
 # Byte-compiled / optimized / DLL files
+contacts
+audios
+images
 node_modules
 __pycache__/
 *.py[cod]
 *$py.class
+vendor
 venv
 /venv/
 venv
-
+wwebjs_cache/
+.wwebjs_cache/
 # C extensions
 *.so
 

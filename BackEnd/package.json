@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/app.ts",
+    "startgb": "ts-node src/appgb.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

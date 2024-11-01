@@ -1,0 +1,15 @@
+{
+    "name": "diego/whatsappgb",
+    "autoload": {
+        "psr-4": {
+            "Diego\\Whatsappgb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diogo Pavani",
+            "email": "pavanidiogo1@gmail.com"
+        }
+    ],
+    "require": {}
+}
