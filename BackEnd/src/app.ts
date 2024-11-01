@@ -47,7 +47,7 @@ client.on('message', async (message: Message) => {
     }
 
     
-    if (userStates[chatId]) {// processa e salva audios se a gravação estiver ativada
+    if (userStates[chatId]) {// processa e salva audios se a gravação estiver ativadaa
         if (message.hasMedia) {
             try {
                 const media = await message.downloadMedia();
